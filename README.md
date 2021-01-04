@@ -31,8 +31,18 @@ Assumption
 
 4. Same movie are going in all theaters.
 
+Steps to execute the solution
+--------------------------------
+1.Run the program.
+2.Choose the city.
+3.Choose the theatre.
+4.Enter the movie you want to see.
+5.Enter the number of tickets you want to book.
+6.Choose the screen you want.
+7.Enter the timing of the show when you want to watch the movies.
 
-Demo Snapshots
+
+Snapshots
 ---------------
 ![Screenshot (275)](https://user-images.githubusercontent.com/66524087/103521157-5010a700-4e9e-11eb-826f-d5ab17d16612.png)
 
