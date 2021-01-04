@@ -34,6 +34,14 @@ Assumption
 
 3. In any city, the theater/multiplex names are unique.
 
+Demo Snapshots
+---------------
+![Screenshot (275)](https://user-images.githubusercontent.com/66524087/103521157-5010a700-4e9e-11eb-826f-d5ab17d16612.png)
+
+![Screenshot (276)](https://user-images.githubusercontent.com/66524087/103521160-51da6a80-4e9e-11eb-8b15-2422f01369f1.png)
+
+Demo Vedio
+------------
 
 
 
