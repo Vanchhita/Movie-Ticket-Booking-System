@@ -34,11 +34,17 @@ Assumption
 Steps to execute the solution
 --------------------------------
 1.Run the program.
+
 2.Choose the city.
+
 3.Choose the theatre.
+
 4.Enter the movie you want to see.
+
 5.Enter the number of tickets you want to book.
+
 6.Choose the screen you want.
+
 7.Enter the timing of the show when you want to watch the movies.
 
 
